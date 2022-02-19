@@ -1,0 +1,25 @@
+.page{
+        color: cornsilk;
+    margin: auto;
+    /* background-image: "../bg.jpg"; */
+  }
+  .page h2{
+    text-align: center;
+    text-shadow: #556b2f 2px solid;
+    color:mediumorchid
+  }
+ 
+  .page h3{
+    text-align: center;
+    text-shadow: #556b2f 2px solid;
+    color:mediumorchid
+  }
+  .page > h1{
+    font-family: "Lora", serif;
+    color:purple;
+  }
+  
+
+ .carousel.carousel-slider {
+  height: 600px !important;
+}

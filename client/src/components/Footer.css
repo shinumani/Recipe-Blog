@@ -1,0 +1,19 @@
+footer .container{
+    background-color: rgb(18, 12, 24);
+    
+}
+.fab{
+    color: aliceblue;
+    background-color: black;
+}
+footer .btn{
+    background-color:purple;
+    color: black;
+}
+footer{
+    margin-bottom: 0px;
+    margin-top: 60%;
+}
+.text-white{
+    color:purple;
+}
